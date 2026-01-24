@@ -1,7 +1,4 @@
-# kip6536.github.io
-<!DOCTYPE html>
-<html>
-<head>
+
 <title>my site</title>
 </head>
 <body>
