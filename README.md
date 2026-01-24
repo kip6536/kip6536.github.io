@@ -1,5 +1,4 @@
 
-<title>my site</title>
 </head>
 <body>
 
